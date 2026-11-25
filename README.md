@@ -2,17 +2,9 @@
 
 <h1>👋 Hello, I'm Omar Awad</h1>
 <h3>Software Developer in Progress | Beni-Suef University FCAI</h3>
-<h4>Back-End Developer | Focused on Practical Projects & Clean Code | Learning Cybersecurity SOC</h4>
+<h4>Back-End Developer | Focused on Practical Projects & Clean Code</h4>
 
-<img src="https://github.com/SP-XD/SP-XD/blob/main/images/hellocoders_rounded.gif?raw=true" alt="Hello Coders" width="60%"/><br>
-<img src="https://github.com/SP-XD/SP-XD/blob/main/images/dev-working_rounded.gif?raw=true" alt="Workspace"  width="40%"/>
-
-<details>
-<summary>🎧 Currently vibing to :</summary>
-[![Spotify](https://spotify-readme.sp-xd.vercel.app/api/spotify)](https://open.spotify.com/user/somnathpaul)
-</details>
-
-![Profile Views](https://komarev.com/ghpvc/?username=OmarAwad&style=flat&color=orange)
+![Profile Views](https://komarev.com/ghpvc/?username=omarawad005&style=flat&color=orange)
 
 </div>
 
@@ -44,3 +36,4 @@ class AboutMe {
     "OtherTools" : { "Git" }
   };
 }
+```
